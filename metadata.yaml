@@ -1,0 +1,37 @@
+_repo: A-Woman-Martyr_41711
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Thiede, Adolf
+    gutenberg_agent_id: '41319'
+    url: http://www.gutenberg.org/2009/agents/41319
+covers:
+- cover_type: archival
+  image_path: 41711-rst/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Diehl, Alice M. (Alice Mangold)
+    aliases:
+    - Clay, Bertha M.
+    - Diehl, Alice Mangold
+    - Diehl, A. M. (Alice Mangold)
+    birthdate: 1844
+    deathdate: 1912
+    gutenberg_agent_id: '41318'
+    url: http://www.gutenberg.org/2009/agents/41318
+description: ''
+gutenberg_issued: '2012-12-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41711'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Murder -- Fiction'
+title: A Woman Martyr
+url: http://www.gutenberg.org/ebooks/41711
