@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '41318'
     url: http://www.gutenberg.org/2009/agents/41318
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41711#A-Woman-Martyr
 gutenberg_issued: '2012-12-26'
 gutenberg_type: Text
 identifiers:
